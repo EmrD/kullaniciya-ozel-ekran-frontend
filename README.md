@@ -89,4 +89,5 @@ Frontend kısmı, React kullanılarak oluşturulmuştur ve kullanıcıların gir
 1. **Giriş Yapma**: Kullanıcı, `/sign` yolunu ziyaret ederek giriş yapabilir.
 2. **Dashboard Erişimi**: Giriş yaptıktan sonra, `/dashboard` yoluna yönlendirilir ve kişisel dashboard bilgilerini görüntüler.
 3. **Kullanıcı Adları**: Frontend kısmı çalıştırıldıktan sonra "emr" , "user2" veya "admin" kullanıcı adları ile uygulama test edilebilir.
+4. **Kurulum Sıralaması**: Kurulum ve çalıştırma sıralaması ilk olarak backend kısmının çalıştırılması ile başlar. Backend kısmının çalıştığından emin olunduktan sonra Frontend kısmının kurulumuna geçilebilir.
 
